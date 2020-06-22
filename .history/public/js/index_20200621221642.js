@@ -28,11 +28,11 @@ $(document).ready(function () {
 
       $table.html(`          
           <tr>
-            <th>${headers[0]}</th>
             <th>${headers[1]}</th>
             <th>${headers[2]}</th>
             <th>${headers[3]}</th>
             <th>${headers[4]}</th>
+            <th>${headers[5]}</th>
           </tr>` +
           person_data);
     });

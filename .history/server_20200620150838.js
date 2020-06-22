@@ -1,9 +1,0 @@
-$(function () {
-    let $table = $(".table");
-
-    
-
-
-
-
-});

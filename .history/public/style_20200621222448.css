@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    display: block;
+}
+
+h1 {
+    padding: 1rem;
+}
+
+table {
+    margin: 1rem;
+}
+
